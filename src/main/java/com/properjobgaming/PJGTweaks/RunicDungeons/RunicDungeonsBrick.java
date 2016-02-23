@@ -6,6 +6,7 @@ import net.minecraft.world.World;
 
 public class RunicDungeonsBrick extends BlockWitherBricks{
 	
+	//Fixes Wither Explosion Dupe
 	@Override
 	public boolean canDropFromExplosion(Explosion p_149659_1_) {
 		return false;
