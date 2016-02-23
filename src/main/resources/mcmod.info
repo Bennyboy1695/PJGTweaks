@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PJGTweaks",
+  "name": "PJGTweaks",
+  "description": "Adds custom tweaks to better server performance and/or fix dupes and annoyances.",
+  "version": "1.0.13",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bennyboy1695"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
